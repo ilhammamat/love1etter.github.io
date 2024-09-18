@@ -10,19 +10,19 @@ body, html {
   background-color: azure;
 }
 .parallax1 {
-  background: url(img/Rose.gif);
+  background: url(https://tenor.com/btp19.gif);
   min-height: 100%;
 }
 .parallax2 {
-  background: url(img/ily.gif);
+  background: url(https://tenor.com/bAUhV.gif);
   min-height: 60%;
 }
 .parallax3 {
-  background: url(img/heart.gif);
+  background: url(https://tenor.com/fX694XCs9NQ.gif);
   min-height: 40%;
 }
 .parallax4 {
-  background: url(img/hold_me.gif);
+  background: url(https://tenor.com/h30WgoY2YEY.gif);
   min-height: 100%;
 }
 .parallax1, .parallax2, .parallax3, .parallax4 {
