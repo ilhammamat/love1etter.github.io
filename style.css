@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+@import url(https://tenor.com/view/sad-guy-going-to-corner-gif-16582580056723107497);
 
 body, html {
   height: 100%;
@@ -10,7 +10,7 @@ body, html {
   background-color: azure;
 }
 .parallax1 {
-  background: url(img/Rose.gif);
+  background: url(https://tenor.com/bAUhV.gif);
   min-height: 100%;
 }
 .parallax2 {
@@ -18,11 +18,11 @@ body, html {
   min-height: 60%;
 }
 .parallax3 {
-  background: url(img/heart.gif);
+  background: url(https://tenor.com/btP19.gif);
   min-height: 40%;
 }
 .parallax4 {
-  background: url(img/hold_me.gif);
+  background: url(https://tenor.com/tU8yvgV9B0D.gif);
   min-height: 100%;
 }
 .parallax1, .parallax2, .parallax3, .parallax4 {
